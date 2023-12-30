@@ -1,0 +1,1 @@
+window.iconbitmap("favicon.ico")
